@@ -1,7 +1,7 @@
 /**
  * This file contains some public tests (visible on Gradescope)
- * Use this as a guide to write tests to verify your MyDeque, MyStack, and
- * MyQueue implementation.
+ * Use this as a guide to write tests to verify your MyDeque, MyStack,
+ * MyQueue, and MyAlgorithm implementation.
  */
 
 import org.junit.Test;
@@ -9,7 +9,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * This class contains public test cases for MyDeque, MyStack, and MyQueue
+ * This class contains public test cases for MyDeque, MyStack, MyQueue, and MyAlgorithm
  */
 public class PublicTester {
     private static final double EPSILON = 0.0001d;
